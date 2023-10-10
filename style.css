@@ -28,13 +28,13 @@
     
     
     .row2{
-    width: 1255px;
+    width: 100%;
         text-align: center;
         margin-top: 20px;
         display: inline-block;
     }
     .row2 .cat1{
-        margin-right: 1%;
+        margin-right: 10px;
             margin-left: 1px;
             display: inline-block;
             padding: 5PX;
@@ -57,14 +57,14 @@
 
     }
     .row3{
-        width: 1255px;
+        width: 100%;
         text-align: center;
         margin-top: 20px;
         display: inline-block;
         }
     
     .row3 .cat1{
-            margin-right: 1%;
+            margin-right: 10px;
             margin-left: 1px;
             display: inline-block;
             padding: 5PX;
