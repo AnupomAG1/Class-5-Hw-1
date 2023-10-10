@@ -3,7 +3,7 @@
     height: 100%;
     box-shadow: 0 1px 1px rgb(255, 255, 255);
     }
-    Marquee{ margin-right: 10px;
+    Marquee{ margin-left: 10px;
         margin-left: 100px;
         margin-top: 10%;
         display: inline-block;
